@@ -1,1 +1,2 @@
-# Advance Techiniques in Python.
+# Advanced techniques in Python.
+
