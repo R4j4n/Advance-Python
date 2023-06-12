@@ -1,0 +1,7 @@
+2023-06-12 07:39:15,367 - __main__ - WARNING - Hello
+2023-06-12 07:39:15,367 - __main__ - ERROR - Hello
+2023-06-12 07:39:15,367 - __main__ - CRITICAL - Hello
+2023-06-12 07:39:59,161 - __main__ - INFO - Hello
+2023-06-12 07:39:59,161 - __main__ - WARNING - Hello
+2023-06-12 07:39:59,161 - __main__ - ERROR - Hello
+2023-06-12 07:39:59,161 - __main__ - CRITICAL - Hello
